@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t001">縣市</string>
+    <string name="t002">觀測點</string>
+    <string name="t003">PM2.5</string>
+    <string name="t004">狀態</string>
+    <string name="t005">更新時間</string>
+    <string name="t_title">縣市觀測點細懸浮微粒狀態更新時間</string>
+
+
+</resources>

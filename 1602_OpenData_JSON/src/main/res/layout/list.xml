@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_green_light"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/t001"
+        android:layout_width="40sp"
+        android:layout_height="wrap_content"
+        android:text="@string/t001"
+        android:textColor="@color/Blue"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/t002"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/Spacing"
+        android:text="@string/t002"
+        android:textAlignment="viewStart"
+        android:textColor="@color/Blue"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/t003"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10sp"
+        android:background="@color/Yellow"
+        android:text="@string/t003"
+        android:textAlignment="textEnd"
+        android:textColor="@color/Red"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/t004"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10sp"
+        android:text="@string/t004"
+        android:textColor="@color/Black"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/t005"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/Margins"
+        android:layout_weight="1"
+        android:text="@string/t005"
+        android:textColor="@color/Gray"
+        android:textSize="12sp" />
+
+</LinearLayout>

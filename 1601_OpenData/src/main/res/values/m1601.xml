@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t000">更新時間</string>
+    <string name="t001">縣市</string>
+    <string name="t002">測量地點</string>
+    <string name="t003">PM2.5</string>
+    <string name="t004">更新時間</string>
+
+
+</resources>
