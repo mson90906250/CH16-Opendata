@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="edit_input_hint">請輸入電話號碼</string>
+    <string name="btn_text_call">撥打電話</string>
+    <string name="btn_text_call_log">顯示上回電話號碼</string>
+    <string name="fragment_scope_tip">已撥電話資料</string>
+    <string name="dialog_msg_call_log">需要核示回顧電話資料權限</string>
+    <string name="dialog_msg_call">需要核示撥打電話權限</string>
+    <string name="go_app_setting">執行設定</string>
+
+</resources>
